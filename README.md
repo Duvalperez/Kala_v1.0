@@ -1,3 +1,6 @@
+
+# Kala V1.0
+
 Aquí tienes el README.md redactado de forma profesional, unificando toda la información que proporcionaste en un solo documento coherente, estructurado y listo para usar en tu repositorio o proyecto.
 
 🤖 Proyecto Kala - Interfaz de Inteligencia Artificial (Groq/Llama)
